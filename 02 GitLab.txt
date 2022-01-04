@@ -31,4 +31,4 @@ D) Beruz Resanie Prozhe Ruye Git
 	Baraye Beruz Rezai Bayad git commit -m "Initial commit" Va git push origin master Ra Bezanim
 
 E) Add Kardane Digaran Dar Git
-	Dar Mohite Git Lab Gozineye Members Ra Negah Koni Motavajeh Khahi Shod
+	DDar Mohite Git Lab Gozineye Members Ra Negah Koni Motavajeh Khahi Shod
