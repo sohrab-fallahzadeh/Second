@@ -1,0 +1,34 @@
+GitLab ---------------------------------------
+GitLab User: sohrab-fallahzadeh
+GitLab Gmail : Email
+GitLab Pass: Man6970
+
+A) Ijad Prozhe
+	Varede Mohite Git Besho Va New Project Kon
+
+B) Gharar Dadane Prozhe Dar Git
+	Paz Az Sakhtane Prozhe Jadid Dar Git
+	Ba CMD Miravim Dakahele Pushei Ke Mikhahim Dar Git Gharar Dahim
+	Dar Anja git init Ra Mizanim
+	Sepas Dar Haman Pushe git remote add origin https://gitlab.com/sohrab-fallahzadeh/test.git Ra Mizanin
+	Dar Har Pushei ke Mikhahim Ba Git Kar Konad Dar har Lahzei Mitavanim Az git status Estefade Konim
+	git status Vaziate File Hara Ba Range Sabz Va Gheemez Elam Mikonad
+	Dar Edame git add . Ra Mizanim
+	Sepas git commit -m "Initial commit" Ra Mizanim
+	Va Dar Nahayat git push origin master Ra Mizanim
+	Ba Karhaye Fogh Prozhe Ruye Git Gharar Migirad
+
+C) Kopi Kardane Prozhe Az Git
+	Prozhe Bayad Dar Gite Shoma Vujud Dashte Bashad
+	Khah Tavasote Shoma Ezafe SHode Bashad Khah Tavasote Digaran Be ProZhe Ezafe Shode Bashid
+	Cmd Ra Baz Mikonid va Ba cd/  Va cd FolderName Va Va cd.. Be Pushei Ke Mikhahid Dar An Kopi Konid Miravid
+	Dar Anja Ba Ebarate git clone Va Address HTTPS Prozhe Dar Git Mitavanid Prozhe Ra Kopi Konid Manande Zir
+	C:\Users\Sohrab\AndroidStudioProjects>git clone https://gitlab.com/mamad_za/behrooz.sms.git
+
+	Sepas Nemidunam Chera git pull origin master Ra Bayad Zad
+
+D) Beruz Resanie Prozhe Ruye Git
+	Baraye Beruz Rezai Bayad git commit -m "Initial commit" Va git push origin master Ra Bezanim
+
+E) Add Kardane Digaran Dar Git
+	Dar Mohite Git Lab Gozineye Members Ra Negah Koni Motavajeh Khahi Shod

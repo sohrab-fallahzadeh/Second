@@ -1,0 +1,11 @@
+A: Kar Ba Git Ruye Local
+
+01 Nasbe GIT
+02 Sakhe Folder Bara Project
+03 Sakhte Ye File.html Tuye Folder
+04 Open CMD
+05 CD To Folder
+06 git init
+07 git status
+08 git add -A
+09 git commit -m "type a text"
