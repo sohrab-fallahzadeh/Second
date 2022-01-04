@@ -39,3 +39,4 @@ C:::
 07 git remote add origin https://github.com/sohrab-fallahzadeh/Second.git
 08 git branch -M main
 09 git push origin main
+10 git pull OR git pull --rebase origin main
