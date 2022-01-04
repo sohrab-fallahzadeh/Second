@@ -1,11 +1,41 @@
-A: Kar Ba Git Ruye Local
+A::: Kar Ba Git Ruye Local
+B::: Clone Kardane Project Az Ruye Git Ruye Local
+C::: Remote Zadan
 
+A:::
 01 Nasbe GIT
-02 Sakhe Folder Bara Project
+02 Sakhe Folder Bara Project Dar Local
 03 Sakhte Ye File.html Tuye Folder
 04 Open CMD
-05 CD To Folder
+05 CD Mikoni To Folder Project 
 06 git init
 07 git status
 08 git add -A
 09 git commit -m "type a text"
+
+Description::: Baraye Vasl Shodan Be Github Ya Gitlab Ebteda Bayad Ba CMD Dar 
+               Hesabe In Siteha Login Koni (Ke Nafahmidam Chetor Shod , Vali Shod)
+
+B:::
+00 Dar Vaghe Ba Clone Kardan , Az Projecti Ke Ruye GitHub Hast
+   Ye Copy Miari Ruye Locale Systemet.
+01 Open CMD
+02 git clone https://github.com/sohrab-fallahzadeh/Second.git
+   Ba In Kar Project Copy Mishe Tu Local
+03 CD Mikoni To Folder Project 
+04 git init
+05 git status
+06 git add -A
+07 git commit -m "type a text"
+08 git push --> Agar dasresi Be Repositoy Dashte Bashi Mituni Push Koni
+
+C:::
+01 Open CMD
+02 CD Mikoni To Folder Projecti Ke Mikhay Behesh Vasl Shi Va Etelaat Rush Bezari
+03 git init
+04 git status
+05 git add -A
+06 git commit -m "type a text"
+07 git remote add origin https://github.com/sohrab-fallahzadeh/Second.git
+08 git branch -M main
+09 git push origin main
