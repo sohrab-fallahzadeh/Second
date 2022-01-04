@@ -40,4 +40,3 @@ C:::
 08 git branch -M main
 09 git push origin main
 10 git pull OR git pull --rebase origin main
-11 sheat
